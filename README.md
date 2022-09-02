@@ -1,0 +1,1 @@
+‘general for all’
